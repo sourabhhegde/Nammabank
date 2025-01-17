@@ -1,2 +1,2 @@
 # Nammabank
-A banking application
+A banking application for a local bank
